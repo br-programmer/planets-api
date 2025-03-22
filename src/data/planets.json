@@ -1,0 +1,274 @@
+[
+    {
+        "id": "mercury",
+        "en": {
+            "name": "Mercury",
+            "highlight": "Closest to the Sun",
+            "image": "http://www.centroastrologico.com.ar/blog/wp-content/uploads/2015/12/mercurio345.jpg"
+        },
+        "es": {
+            "name": "Mercurio",
+            "highlight": "El más cercano al Sol",
+            "image": "http://www.centroastrologico.com.ar/blog/wp-content/uploads/2015/12/mercurio345.jpg"
+        },
+        "details": {
+            "orbital_distance_km": 57909227,
+            "equatorial_radius_km": 2439,
+            "volume_km3": 60827208742,
+            "mass_kg": "330.104 x 10^18",
+            "density_g_cm3": 5.427,
+            "surface_gravity_m_s2": 3.7,
+            "escape_velocity_kmh": 15300,
+            "day_length_earth_days": 58.6,
+            "year_length_earth_days": 87.87,
+            "orbital_speed_kmh": 170503,
+            "moons": 0,
+            "atmosphere_composition": {
+                "en": "Oxygen, Sodium, Hydrogen, Helium, Potassium",
+                "es": "Oxígeno, Sodio, Hidrógeno, Helio, Potasio"
+            },
+            "description": {
+                "en": "Mercury is the smallest planet in the solar system and the closest to the Sun. Its surface is covered in craters, similar to the Moon, due to its thin exosphere. Despite its proximity to the Sun, Mercury is not the hottest planet—Venus holds that title. Daytime temperatures reach 430°C, while at night, they drop to -180°C.",
+                "es": "Mercurio es el planeta más pequeño del sistema solar y el más cercano al Sol. Su superficie está cubierta de cráteres, similar a la Luna, debido a su fina exosfera. A pesar de su proximidad al Sol, Mercurio no es el planeta más caliente—ese título lo tiene Venus. Las temperaturas durante el día alcanzan los 430°C, mientras que por la noche descienden hasta -180°C."
+            }
+        }
+    },
+    {
+        "id": "venus",
+        "en": {
+            "name": "Venus",
+            "highlight": "Hottest Planet",
+            "image": "http://www.misteriosocultos.com/wp-content/uploads/2018/04/venus.jpg"
+        },
+        "es": {
+            "name": "Venus",
+            "highlight": "El planeta más caliente",
+            "image": "http://www.misteriosocultos.com/wp-content/uploads/2018/04/venus.jpg"
+        },
+        "details": {
+            "orbital_distance_km": 108209475,
+            "equatorial_radius_km": 6051,
+            "volume_km3": 928415345893,
+            "mass_kg": "4.867.320 x 10^18",
+            "density_g_cm3": 5.243,
+            "surface_gravity_m_s2": 8.87,
+            "escape_velocity_kmh": 37296,
+            "day_length_earth_days": 116.75,
+            "year_length_earth_days": 225,
+            "orbital_speed_kmh": 126074,
+            "moons": 0,
+            "atmosphere_composition": {
+                "en": "Carbon Dioxide, Nitrogen",
+                "es": "Dióxido de Carbono, Nitrógeno"
+            },
+            "description": {
+                "en": "Venus is the second planet from the Sun and the hottest in the solar system. Its thick atmosphere is primarily composed of carbon dioxide, and its surface is dotted with volcanoes. A day on Venus is longer than its year, and it rotates in the opposite direction to most planets.",
+                "es": "Venus es el segundo planeta desde el Sol y el más caliente del sistema solar. Su densa atmósfera está compuesta principalmente de dióxido de carbono, y su superficie está salpicada de volcanes. Un día en Venus es más largo que su año, y gira en dirección opuesta a la mayoría de los planetas."
+            }
+        }
+    },
+    {
+        "id": "earth",
+        "en": {
+            "name": "Earth",
+            "highlight": "Home Planet",
+            "image": "https://www.nasa.gov/wp-content/uploads/2023/03/187_1003705_americas_dxm.png"
+        },
+        "es": {
+            "name": "Tierra",
+            "highlight": "Planeta hogar",
+            "image": "https://www.nasa.gov/wp-content/uploads/2023/03/187_1003705_americas_dxm.png"
+        },
+        "details": {
+            "orbital_distance_km": 149598262,
+            "equatorial_radius_km": 6371,
+            "volume_km3": 1083206916846,
+            "mass_kg": "5.972.190 x 10^18",
+            "density_g_cm3": 5.513,
+            "surface_gravity_m_s2": 9.8,
+            "escape_velocity_kmh": 40284,
+            "day_length_earth_days": 1,
+            "year_length_earth_days": 365.25,
+            "orbital_speed_kmh": 107218,
+            "moons": 1,
+            "atmosphere_composition": {
+                "en": "Nitrogen, Oxygen",
+                "es": "Nitrógeno, Oxígeno"
+            },
+            "description": {
+                "en": "Earth is the only planet known to support life. It has vast oceans and a protective atmosphere that shields it from solar radiation. Earth is the third planet from the Sun and has one natural satellite: the Moon.",
+                "es": "La Tierra es el único planeta conocido que alberga vida. Tiene vastos océanos y una atmósfera protectora que la resguarda de la radiación solar. La Tierra es el tercer planeta desde el Sol y tiene un satélite natural: la Luna."
+            }
+        }
+    },
+    {
+        "id": "mars",
+        "en": {
+            "name": "Mars",
+            "highlight": "Neighbor of Earth",
+            "image": "https://images-assets.nasa.gov/image/PIA02653/PIA02653~large.jpg?w=1920&h=1920&fit=clip&crop=faces%2Cfocalpoint"
+        },
+        "es": {
+            "name": "Marte",
+            "highlight": "Vecino de la Tierra",
+            "image": "https://images-assets.nasa.gov/image/PIA02653/PIA02653~large.jpg?w=1920&h=1920&fit=clip&crop=faces%2Cfocalpoint"
+        },
+        "details": {
+            "orbital_distance_km": 227943824,
+            "equatorial_radius_km": 3389,
+            "volume_km3": 163115609799,
+            "mass_kg": "641.693 x 10^18",
+            "density_g_cm3": 3.934,
+            "surface_gravity_m_s2": 3.71,
+            "escape_velocity_kmh": 18108,
+            "day_length_earth_days": 1.025,
+            "year_length_earth_days": 687,
+            "orbital_speed_kmh": 86677,
+            "moons": 2,
+            "atmosphere_composition": {
+                "en": "Carbon Dioxide, Nitrogen, Argon",
+                "es": "Dióxido de Carbono, Nitrógeno, Argón"
+            },
+            "description": {
+                "en": "Mars, known as the Red Planet, is the fourth planet from the Sun. It has the largest volcano and canyon in the solar system, and scientists believe that Mars may have once supported liquid water. Today, it is a cold, dry desert.",
+                "es": "Marte, conocido como el Planeta Rojo, es el cuarto planeta desde el Sol. Tiene el volcán y el cañón más grande del sistema solar, y los científicos creen que Marte pudo haber tenido agua líquida. Hoy en día, es un desierto frío y seco."
+            }
+        }
+    },
+    {
+        "id": "jupiter",
+        "en": {
+            "name": "Jupiter",
+            "highlight": "Largest Planet",
+            "image": "https://science.nasa.gov/wp-content/uploads/2023/09/stsci-h-p1936a_1800.jpg?w=2048&format=webp"
+        },
+        "es": {
+            "name": "Júpiter",
+            "highlight": "El planeta más grande",
+            "image": "https://science.nasa.gov/wp-content/uploads/2023/09/stsci-h-p1936a_1800.jpg?w=2048&format=webp"
+        },
+        "details": {
+            "orbital_distance_km": 778340821,
+            "equatorial_radius_km": 69911,
+            "volume_km3": "1.431281810739360 x 10^15",
+            "mass_kg": "1.898.130 x 10^21",
+            "density_g_cm3": 1.326,
+            "surface_gravity_m_s2": 24.79,
+            "escape_velocity_kmh": 216720,
+            "day_length_earth_days": 0.413,
+            "year_length_earth_days": 4380,
+            "orbital_speed_kmh": 47002,
+            "moons": 79,
+            "atmosphere_composition": {
+                "en": "Hydrogen, Helium",
+                "es": "Hidrógeno, Helio"
+            },
+            "description": {
+                "en": "Jupiter is the largest planet in the solar system, with a mass greater than all other planets combined. It is known for its Great Red Spot, a giant storm that has been raging for over 300 years. Jupiter has dozens of moons, including Ganymede, the largest moon in the solar system.",
+                "es": "Júpiter es el planeta más grande del sistema solar, con una masa mayor que la de todos los otros planetas combinados. Es conocido por su Gran Mancha Roja, una tormenta gigante que ha estado activa por más de 300 años. Júpiter tiene docenas de lunas, incluyendo a Ganímedes, la luna más grande del sistema solar."
+            }
+        }
+    },
+    {
+        "id": "saturn",
+        "en": {
+            "name": "Saturn",
+            "highlight": "Ringed Planet",
+            "image": "https://www.globalastronomia.com/wp-content/uploads/2017/05/art%C3%ADculo-3-jun-2017-1200x600.jpg"
+        },
+        "es": {
+            "name": "Saturno",
+            "highlight": "Planeta con anillos",
+            "image": "https://www.globalastronomia.com/wp-content/uploads/2017/05/art%C3%ADculo-3-jun-2017-1200x600.jpg"
+        },
+        "details": {
+            "orbital_distance_km": 1426666422,
+            "equatorial_radius_km": 58232,
+            "volume_km3": "827.129.915.150.897 x 10^9",
+            "mass_kg": "568.319 x 10^21",
+            "density_g_cm3": 0.687,
+            "surface_gravity_m_s2": 10.4,
+            "escape_velocity_kmh": 129924,
+            "day_length_earth_days": 0.44,
+            "year_length_earth_days": 10585,
+            "orbital_speed_kmh": 9680,
+            "moons": 83,
+            "atmosphere_composition": {
+                "en": "Hydrogen, Helium",
+                "es": "Hidrógeno, Helio"
+            },
+            "description": {
+                "en": "Saturn is best known for its spectacular ring system, made of ice and rock. It is the second-largest planet in the solar system and has a large number of moons, including Titan, which has a dense atmosphere and is larger than the planet Mercury.",
+                "es": "Saturno es conocido por su espectacular sistema de anillos, compuesto de hielo y roca. Es el segundo planeta más grande del sistema solar y tiene una gran cantidad de lunas, incluyendo a Titán, que tiene una densa atmósfera y es más grande que el planeta Mercurio."
+            }
+        }
+    },
+    {
+        "id": "uranus",
+        "en": {
+            "name": "Uranus",
+            "highlight": "Tilted Rotation",
+            "image": "https://i.pinimg.com/originals/2b/33/a6/2b33a6d49a2bf3d89728a3b69b170f69.jpg"
+        },
+        "es": {
+            "name": "Urano",
+            "highlight": "Rotación inclinada",
+            "image": "https://i.pinimg.com/originals/2b/33/a6/2b33a6d49a2bf3d89728a3b69b170f69.jpg"
+        },
+        "details": {
+            "orbital_distance_km": 2870658186,
+            "equatorial_radius_km": 25362,
+            "volume_km3": "68.334.355.695.584 x 10^9",
+            "mass_kg": "86.810.300 x 10^18",
+            "density_g_cm3": 1.27,
+            "surface_gravity_m_s2": 8.87,
+            "escape_velocity_kmh": 76698,
+            "day_length_earth_days": 0.72,
+            "year_length_earth_days": 30660,
+            "orbital_speed_kmh": 24477,
+            "moons": 27,
+            "atmosphere_composition": {
+                "en": "Hydrogen, Helium, Methane",
+                "es": "Hidrógeno, Helio, Metano"
+            },
+            "description": {
+                "en": "Uranus is unique among the planets for rotating on its side. It is a giant icy planet with a faint ring system and 27 moons. Its atmosphere contains methane, which gives the planet its blue-green color.",
+                "es": "Urano es único entre los planetas por rotar de lado. Es un gigante helado con un sistema de anillos tenue y 27 lunas. Su atmósfera contiene metano, lo que le da su color azul verdoso."
+            }
+        }
+    },
+    {
+        "id": "neptune",
+        "en": {
+            "name": "Neptune",
+            "highlight": "Farthest from the Sun",
+            "image": "https://www.caracteristicas.co/wp-content/uploads/2017/05/neptuno-planeta-min-e1494532094217.jpeg"
+        },
+        "es": {
+            "name": "Neptuno",
+            "highlight": "El más alejado del Sol",
+            "image": "https://www.caracteristicas.co/wp-content/uploads/2017/05/neptuno-planeta-min-e1494532094217.jpeg"
+        },
+        "details": {
+            "orbital_distance_km": 4498396441,
+            "equatorial_radius_km": 24622,
+            "volume_km3": "62.525.703.987.412 x 10^9",
+            "mass_kg": "102.412 x 10^21",
+            "density_g_cm3": 1.638,
+            "surface_gravity_m_s2": 11.15,
+            "escape_velocity_kmh": 84816,
+            "day_length_earth_days": 0.67,
+            "year_length_earth_days": 60225,
+            "orbital_speed_kmh": 19566,
+            "moons": 14,
+            "atmosphere_composition": {
+                "en": "Hydrogen, Helium, Methane",
+                "es": "Hidrógeno, Helio, Metano"
+            },
+            "description": {
+                "en": "Neptune is the farthest planet from the Sun and is known for its deep blue color, caused by methane in its atmosphere. It is a giant icy planet with strong winds, the fastest recorded in the solar system. Neptune has 14 moons, the largest of which is Triton.",
+                "es": "Neptuno es el planeta más alejado del Sol y es conocido por su color azul intenso, causado por el metano en su atmósfera. Es un gigante helado con vientos fuertes, los más rápidos registrados en el sistema solar. Neptuno tiene 14 lunas, la mayor de ellas es Tritón."
+            }
+        }
+    }
+]
