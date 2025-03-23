@@ -1,3 +1,4 @@
+const cors = require('cors');
 const express = require('express');
 const languageMiddleware = require('./middleware/language.middleware');
 const authRoutes = require('./routes/auth.routes');
@@ -5,6 +6,12 @@ const apiKeyRoutes = require('./routes/api.key.routes');
 const planetsRoutes = require('./routes/planets.routes');
 
 const app = express();
+app.use(cors({
+    origin: '*',
+    methods: ['GET', 'POST'],
+    allowedHeaders: ['Content-Type', 'Authorization'],
+}));
+
 app.use(express.json());
 
 app.get('/', (_, res) => {
