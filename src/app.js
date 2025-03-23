@@ -1,23 +1,20 @@
 const express = require('express');
 const languageMiddleware = require('./middleware/language.middleware');
-const authRoutes = require('./routes/auth.routes')
-const authToken = require('./middleware/auth.token');
+const authRoutes = require('./routes/auth.routes');
 const apiKeyRoutes = require('./routes/api.key.routes');
 const planetsRoutes = require('./routes/planets.routes');
-const apiKeyAuth = require('./middleware/api.key.auth');
-
 
 const app = express();
 app.use(express.json());
 
+app.get('/', (_, res) => {
+    res.status(200).json({ status: 'OK', message: '🚀 Planets API is running!' });
+});
+
 app.use(languageMiddleware);
 
 app.use('/auth', authRoutes);
-
-app.use('/auth/generate-key', authToken, apiKeyRoutes);
-
-app.use('/auth/keys', authToken, apiKeyRoutes);
-
-app.use('/planets', apiKeyAuth, planetsRoutes);
+app.use('/api-key', apiKeyRoutes);
+app.use('/planets', planetsRoutes);
 
 module.exports = app;
