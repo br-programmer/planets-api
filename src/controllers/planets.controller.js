@@ -19,7 +19,7 @@ const getPlanetById = (req, res) => {
     const planet = planets.find(p => p.id === req.params.id);
 
     if (!planet) {
-        return res.status(404);
+        return res.status(404).json({});
     }
 
     const { name, highlight, image } = planet[lang];
