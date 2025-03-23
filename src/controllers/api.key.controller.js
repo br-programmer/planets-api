@@ -37,4 +37,22 @@ const generateApiKey = (req, res) => {
 };
 
 
-module.exports = { generateApiKey };
+const listApiKeys = (req, res) => {
+    const owner = req.user?.username;
+
+    if (!owner) {
+        return res.status(400).json({ error: 'Invalid user in token' });
+    }
+
+    let keys = [];
+    if (fs.existsSync(apiKeysFile)) {
+        const data = fs.readFileSync(apiKeysFile, 'utf-8');
+        keys = JSON.parse(data);
+    }
+
+    const userKeys = keys.filter(entry => entry.owner === owner);
+
+    res.status(200).json({ keys: userKeys });
+};
+
+module.exports = { generateApiKey, listApiKeys };
