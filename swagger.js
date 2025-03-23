@@ -10,7 +10,7 @@ const options = {
             description: 'API for managing planets, authentication, and API keys',
         },
         servers: [
-            { url: 'http://localhost:3000' },
+            { url: 'https://planets-api-opdg.onrender.com' },
         ],
         components: {
             securitySchemes: {
