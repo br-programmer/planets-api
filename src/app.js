@@ -16,6 +16,8 @@ app.use('/auth', authRoutes);
 
 app.use('/auth/generate-key', authToken, apiKeyRoutes);
 
+app.use('/auth/keys', authToken, apiKeyRoutes);
+
 app.use('/planets', apiKeyAuth, planetsRoutes);
 
 module.exports = app;
