@@ -103,7 +103,6 @@ const { getAllPlanets, getPlanetById } = require('../controllers/planets.control
 const apiKeyAuth = require('../middleware/api.key.auth');
 
 router.use(apiKeyAuth);
-
 router.get('/', getAllPlanets);
 router.get('/:id', getPlanetById);
 
