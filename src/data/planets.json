@@ -14,7 +14,7 @@
         "details": {
             "orbital_distance_km": 57909227,
             "equatorial_radius_km": 2439,
-            "volume_km3": 60827208742,
+            "volume_km3": "6.0827208742 x 10^11",
             "mass_kg": "330.104 x 10^18",
             "density_g_cm3": 5.427,
             "surface_gravity_m_s2": 3.7,
@@ -48,7 +48,7 @@
         "details": {
             "orbital_distance_km": 108209475,
             "equatorial_radius_km": 6051,
-            "volume_km3": 928415345893,
+            "volume_km3": "9.28415345893 x 10^12",
             "mass_kg": "4.867.320 x 10^18",
             "density_g_cm3": 5.243,
             "surface_gravity_m_s2": 8.87,
@@ -82,7 +82,7 @@
         "details": {
             "orbital_distance_km": 149598262,
             "equatorial_radius_km": 6371,
-            "volume_km3": 1083206916846,
+            "volume_km3": "1.083206916846 x 10^13",
             "mass_kg": "5.972.190 x 10^18",
             "density_g_cm3": 5.513,
             "surface_gravity_m_s2": 9.8,
@@ -116,7 +116,7 @@
         "details": {
             "orbital_distance_km": 227943824,
             "equatorial_radius_km": 3389,
-            "volume_km3": 163115609799,
+            "volume_km3": "1.63115609799 x 10^12",
             "mass_kg": "641.693 x 10^18",
             "density_g_cm3": 3.934,
             "surface_gravity_m_s2": 3.71,
